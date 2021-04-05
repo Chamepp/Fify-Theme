@@ -1,0 +1,21 @@
+{
+    "name": "fify-theme",
+    "displayName": "Fify Theme",
+    "description": "a Fiffy Theme For VSCode",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Fiffy Theme",
+                "uiTheme": "vs",
+                "path": "./themes/Fiffy Theme-color-theme.json"
+            }
+        ]
+    }
+}
