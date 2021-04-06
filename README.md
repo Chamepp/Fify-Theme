@@ -1,4 +1,5 @@
 # README
+![](https://komarev.com/ghpvc/?username=Chamepp&label=views)
 ## This is the README for your extension "fify-theme"
 You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
