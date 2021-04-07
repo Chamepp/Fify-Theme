@@ -9,6 +9,11 @@
     "categories": [
         "Themes"
     ],
+    "repository": {
+        "type": "git",
+            "url": "https://github.com/endormi/vscode-2077-theme"
+        },
+    "icon": "image/icon.PNG",
     "contributes": {
         "themes": [
             {
@@ -16,6 +21,9 @@
                 "uiTheme": "vs",
                 "path": "./themes/Fiffy Theme-color-theme.json"
             }
+        ],
+        "extensionPack": [ 
+            "publisher.extensionName"
         ]
     }
 }
