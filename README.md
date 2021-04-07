@@ -1,14 +1,23 @@
-# README
-![](https://komarev.com/ghpvc/?username=Chamepp&label=views)
-## This is the README for your extension "fify-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+<p align="center">
+  <img src="files/Fify.png">
+</p>
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+<p align="center">
+  
+</p>
+<p align="center">
+ <a href="https://marketplace.visualstudio.com/items?itemName=Endormi.2077-theme">
+  <img src="https://img.shields.io/badge/MarketPlaceVersion-1.0.1-purple?style=flat-square" alt="version" />
+ </a>
+ <a href="https://img.shields.io/badge/MarketPlaceVersion-1.0.1-purple?style=flat-square">
+   <img src="https://img.shields.io/visual-studio-marketplace/stars/endormi.2077-theme.svg?color=yellow&label=Rating&style=popout-square" alt="stars" />
+   <img src="https://img.shields.io/badge/Build-Passing-brightgreen?style=flat-square" />
+ </a>
+  
+</p>
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+# Fify Theme
 
-**Enjoy!**
+A Fify Theme For VSCode.
+
+Using Classic Blue and Light Green Magic.
