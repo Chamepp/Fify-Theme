@@ -14,6 +14,7 @@
             "url": "https://github.com/endormi/vscode-2077-theme"
         },
     "icon": "image/icon.PNG",
+    "publisher": "Chamepp",
     "contributes": {
         "themes": [
             {
