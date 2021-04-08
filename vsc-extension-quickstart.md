@@ -1,28 +1,35 @@
-# Welcome to your VS Code Extension
+<p align="center">
+  <img src="files/Fify.png">
+</p>
 
-## What's in the folder
+<p align="center">
+  
+</p>
+<p align="center">
+ <a href="https://marketplace.visualstudio.com/items?itemName=Endormi.2077-theme">
+  <img src="https://img.shields.io/badge/MarketPlaceVersion-1.0.1-purple?style=flat-square" alt="version" />
+ </a>
+ <a href="https://img.shields.io/badge/MarketPlaceVersion-1.0.1-purple?style=flat-square">
+   <img src="https://img.shields.io/visual-studio-marketplace/stars/endormi.2077-theme.svg?color=yellow&label=Rating&style=popout-square" alt="stars" />
+   <img src="https://img.shields.io/badge/Build-Passing-brightgreen?style=flat-square" />
+ </a>
+  
+</p>
 
-* This folder contains all of the files necessary for your color theme extension.
-* `package.json` - this is the manifest file that defines the location of the theme file and specifies the base theme of the theme.
-* `themes/Fiffy Theme-color-theme.json` - the color theme definition file.
+# Fify Theme
 
-## Get up and running straight away
+A **Fify Theme** For *VSCode*. <br>
+Using *Classic Blue* and *Light Green* **Magic**.
 
-* Press `F5` to open a new window with your extension loaded.
-* Open `File > Preferences > Color Themes` and pick your color theme.
-* Open a file that has a language associated. The languages' configured grammar will tokenize the text and assign 'scopes' to the tokens. To examine these scopes, invoke the `Inspect TM Scopes` command from the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P` on Mac) .
+# Preview :balloon:
+<img height="600" src="files/FifyPreview.png">
 
-## Make changes
+# Installation :telescope:
+1. Open *Extensions* **sidebar panel** in VS Code. **View → Extensions** <br>
+2. Search for **Fiffy Theme** By *Chamepp*. <br>
+3. Click **Install** to install and *reload* your editor. <br>
+4. **Code > Preferences > Color Theme > Fify** <br>
+5. **Enjoy !**
 
-* Changes to the theme file are automatically applied to the Extension Development Host window.
-
-## Adopt your theme to Visual Studio Code
-
-* The token colorization is done based on standard TextMate themes. Colors are matched against one or more scopes.
-
-To learn more about scopes and how they're used, check out the [color theme](https://code.visualstudio.com/api/extension-guides/color-theme) documentation.
-
-## Install your extension
-
-* To start using your extension with Visual Studio Code copy it into the `<user home>/.vscode/extensions` folder and restart Code.
-* To share your extension with the world, read on https://code.visualstudio.com/docs about publishing an extension.
+# Development :hearts:
+**Developed** With :hearts: By **Ashkan Ebtekari**.
