@@ -13,7 +13,7 @@
         "type": "git",
             "url": "https://github.com/endormi/vscode-2077-theme"
         },
-    "icon": "image/icon.PNG",
+    "icon": "files/Icon.png",
     "publisher": "Chamepp",
     "contributes": {
         "themes": [
