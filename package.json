@@ -23,7 +23,10 @@
             }
         ],
         "extensionPack": [ 
-            "publisher.extensionName"
+            "eamodio.gitlens",
+            "CoenraadS.bracket-pair-colorizer",
+            "Snowcoders.sortier-vscode",
+            "PKief.material-icon-theme"
         ]
     }
 }
