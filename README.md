@@ -21,6 +21,8 @@
 A **Fify Theme** For *VSCode*. <br>
 Using *Classic Blue* and *Light Green* **Magic**.
 
+# Preview :balloon:
+<img height="600" src="files/FifyPreview.png">
 
 # Installation :telescope:
 1. Open *Extensions* **sidebar panel** in VS Code. **View → Extensions** <br>
