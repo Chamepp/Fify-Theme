@@ -9,9 +9,9 @@
  <a href="https://marketplace.visualstudio.com/items?itemName=Endormi.2077-theme">
   <img src="https://img.shields.io/badge/MarketPlaceVersion-1.0.1-purple?style=flat-square" alt="version" />
  </a>
- <a href="https://img.shields.io/badge/MarketPlaceVersion-1.0.1-purple?style=flat-square">
+ <a href="https://img.shields.io/badge/MarketPlaceVersion-1.0.5-purple?style=flat-square">
    <img src="https://img.shields.io/visual-studio-marketplace/stars/endormi.2077-theme.svg?color=yellow&label=Rating&style=popout-square" alt="stars" />
-   <img src="https://img.shields.io/badge/Build-Passing-brightgreen?style=flat-square" />
+   <img src="https://img.shields.io/badge/Build-Successful-brightgreen?style=flat-square" />
  </a>
   
 </p>
