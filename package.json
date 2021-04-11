@@ -2,7 +2,7 @@
     "name": "fify-theme",
     "displayName": "Fify Theme",
     "description": "a Fiffy Theme For VSCode",
-    "version": "1.0.2",
+    "version": "1.0.5",
     "engines": {
         "vscode": "^1.55.0"
     },
