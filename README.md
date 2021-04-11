@@ -21,15 +21,15 @@
 A **Fify Theme** For *VSCode*. <br>
 Using *Classic Blue* and *Light Green* **Magic**.
 
-# Preview :balloon:
+# Preview
 <img height="600" src="files/FifyPreview.png">
 
-# Installation :telescope:
+# Installation
 1. Open *Extensions* **sidebar panel** in VS Code. **View → Extensions** <br>
 2. Search for **Fiffy Theme** By *Chamepp*. <br>
 3. Click **Install** to install and *reload* your editor. <br>
 4. **Code > Preferences > Color Theme > Fify** <br>
 5. **Enjoy !**
 
-# Development :hearts:
-**Developed** With :hearts: By **Ashkan Ebtekari**.
+# Development
+**Developed** With :hearts: By <a href="github.com/Chamepp">Ashkan Ebtekari</a>.
