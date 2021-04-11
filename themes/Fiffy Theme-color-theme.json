@@ -1,7 +1,3 @@
-Gmail	Ashkan .E <ashkanebtekari@gmail.com>
-Fify Update
-Ashkan .E <ashkanebtekari@gmail.com>	11 April 2021 at 07:47
-To: "Ashkan .E" <ashkanebtekari@gmail.com>
 {
     "$schema": "vscode://schemas/color-theme",
     "name": "Fiffy Theme",
@@ -367,8 +363,8 @@ To: "Ashkan .E" <ashkanebtekari@gmail.com>
         "tab.border": "#151944",
         "tab.hoverBackground": "#151944",
         "tab.hoverBorder": "#FE5220",
-        "tab.inactiveBackground": "#15151f",
-        "tab.inactiveForeground": "#151944",
+        "tab.inactiveBackground": "#121853",
+        "tab.inactiveForeground": "#FE5220",
         "tab.inactiveModifiedBorder": "#151944",
         "tab.unfocusedActiveBackground": "#15151f",
         "tab.unfocusedActiveBorder": "#151944",
