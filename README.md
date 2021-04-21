@@ -2,9 +2,7 @@
   <img src="files/Fify.png">
 </p>
 
-<p align="center">
-  
-</p>
+
 <p align="center">
  <a href="https://marketplace.visualstudio.com/items?itemName=Endormi.2077-theme">
   <img src="https://img.shields.io/badge/MarketPlaceVersion-1.0.1-purple?style=flat-square" alt="version" />
