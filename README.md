@@ -16,8 +16,7 @@
 
 # Fify Theme
 
-A **Fify Theme** For *VSCode*. <br>
-Using *Classic Blue* and *Light Green* **Magic**.
+A visual studio theme.
 
 # Preview
 <img height="600" src="files/FifyPreview.png">
